@@ -1,0 +1,20 @@
+body {
+    font-size: 40px;
+    font-family: "Times New Roman", Times, serif;
+    }
+
+.negrito {
+    font-weight: 900;
+}
+
+.italico {
+    font-style: italic;
+}
+
+.formatacao {
+    text-decoration: underline;
+}
+
+.texto {
+    font: bold 40px  ;
+}	
